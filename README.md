@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/message-personnel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Message Personnel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/message-personnel/) |
+| **Get License** | [Get a Licensing Quote for Message Personnel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/message-personnel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3c38b2973162ab8dbb9b68baacbb332e0dcf842eaec7533a88caef6e879b5f64` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
