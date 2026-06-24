@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/message-personnel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Message Personnel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/message-personnel/) |
+| **Get License** | [Commercial Licensing for Message Personnel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/message-personnel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la brume de Paname, ton parfum me capture
+> Sous les néons violets, baby you're my future
+> On glisse dans la nuit, la ville est notre scène
+> Ton regard me défie, et mon cœur se déchaîne
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
